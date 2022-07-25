@@ -2,6 +2,9 @@
 
 > *程序运行环境依赖 vue-cli*
 
+## 程序功能
+用vue通过axios实现对GitHub相关用户搜索及访问其个人主页【GitHub api：https://api.github.com/search/users?q=xxx】
+
 ## 配置运行环境
 
 从官网上安装node.js
@@ -31,10 +34,6 @@ npm i vue
 ```bash
 npm run serve
 ```
-
-
-
-
 
 
 
